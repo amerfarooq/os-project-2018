@@ -1,0 +1,6 @@
+S 1
+A 1
+A 1
+R a.txt
+B
+E
